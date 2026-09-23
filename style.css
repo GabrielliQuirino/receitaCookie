@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #be0085;
+    color: #000000;
+}
+
+.container {
+    width: 700px;
+    margin: 40px auto;
+    background-color: rgb(255, 149, 204);
+    padding: 30px;
+    border-radius: 15px;
+}
+
+h1 {
+    text-align: center;
+    color: #fafafa;
+}
+
+img {
+    display: block;
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    margin: 25px auto;
+    border-radius: 15px;
+}
+
+h2 {
+    color: #ffffff;
+    margin-top: 25px;
+}
+
+li {
+    margin-bottom: 8px;
+}
